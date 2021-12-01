@@ -2,7 +2,7 @@
 
 class Solution {
 public:
-    bool containsDuplicate(vector<int>& nums) {      
+    bool containsDuplicateBySort(vector<int>& nums) {      
         sort(nums.begin(), nums.end());
         for(int i=0; i<nums.size()-1; i++){
             if (nums[i] == nums[i+1])
@@ -12,7 +12,7 @@ public:
     }
     
     
-    bool containsDuplicate(vector<int>& nums) {
+    bool containsDuplicateByHash(vector<int>& nums) {
         map <int, bool> hashMap;
         for(auto& num : nums){
             if (hashMap.find(num) != hashMap.end() )
