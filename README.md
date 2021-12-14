@@ -12,4 +12,4 @@ My leetcode practice repository.
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)| Easy | [C++](/0169-Majority-Element.cpp) | Sort | O(nlogn) | O(1) |
 | 0217 | [Contains-Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [C++](/0217-Contains-Duplicate.cpp) | Sort/hash | O(nlogn) | O(1) |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy | [C++](/0283-Move-Zeros.cpp) | 2-pointer | O(n) | O(1) | |
-| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [C++](/1143-Longest-Common-Subsequence.cpp) | DP | O(mn) | O(min(m,n)) |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [C++](/1143-Longest-Common-Subsequence.cpp) | DP | O(mn) | O(mn) |
