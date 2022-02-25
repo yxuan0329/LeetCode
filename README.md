@@ -8,6 +8,7 @@ My leetcode practice repository.
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [C++](/0019-Remove-Nth-Node-From-End-of-List.cpp) | linked list/ 2-pointer | O(n) | O(1)|
 | 0022 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](/0022-Generate-Parentheses.cpp) | recursive | | |
 | 0053 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [C++](/0053-Maximum-Subarray.cpp) | DP | O(n) | O(1) |
+| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [C++](/0075-Sort-Colors.cpp) | none | O(n) | O(1) |
 | 0102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [C++](/0102-Binary-Tree-Level-Order-Traversal.cpp) | BFS | O(n) | O(n) | |
 | 0111 |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| Easy | [C++](/0111-Minimum-Depth-of-Binary-Tree.cpp) | Recursive | O(n) | O(n) | |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/)| Easy | [C++](/0136-Single-Number.cpp) | Logic Operation | O(n) | O(1) |
