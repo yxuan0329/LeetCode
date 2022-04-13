@@ -19,5 +19,6 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [C++](/0209-Minimum-Size-Subarray-Sum.cpp) | 2-pointer | O(nlogn) | O(n) | 
 | 0217 | [Contains-Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [C++](/0217-Contains-Duplicate.cpp) | Sort/hash | O(nlogn) | O(1) |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy | [C++](/0283-Move-Zeros.cpp) | 2-pointer | O(n) | O(1) | |
-| 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [C++](/0328-Odd-Even-Linked-List.cpp) | linked list | O(n) | O(1)
+| 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [C++](/0328-Odd-Even-Linked-List.cpp) | linked list | O(n) | O(1) |
+| 0611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | Medium | [C++](/0611-Valid-Triangle-Number.cpp) | 2-pointer | O(n^2) | O(1) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [C++](/1143-Longest-Common-Subsequence.cpp) | DP | O(mn) | O(mn) |
