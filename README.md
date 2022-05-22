@@ -23,6 +23,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| Medium | [C++](/0142-Linked-List-Cycle-II.cpp) | Linked list| O(n) | O(1) |
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [C++](/0153-Find-Minimum-in-Rotated-Sorted-Array.cpp) | Binary Search | O(logn) | O(1) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)| Easy | [C++](/0169-Majority-Element.cpp) | Sort | O(nlogn) | O(1) |
+| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [C++](/0189-Rotate-Array.cpp) | none | O(n) | O(1) |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [C++](/0209-Minimum-Size-Subarray-Sum.cpp) | 2-pointer | O(nlogn) | O(n) | 
 | 0217 | [Contains-Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [C++](/0217-Contains-Duplicate.cpp) | Sort/hash | O(nlogn) | O(1) |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [C++](/0230-Kth-Smallest-Element-in-a-BST.cpp) | Recursive | O(n) | O(1) |
