@@ -1,6 +1,6 @@
 # LeetCode
 My leetcode practice repository. <br>
-You can click the solution of each problem and see my solution, most of them were done by C++.
+You can click the solution of each problem and see my solution, most of them were done by C++.<br>
 
 
 |  #  | Title | Difficulty | Solution |  Techniques | Time | Space | Notes |
