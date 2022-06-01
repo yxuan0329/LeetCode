@@ -10,6 +10,8 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0022 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](/0022-Generate-Parentheses.cpp) | recursive | | |
 | 0050 |[Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [C++](/0050-Pow(x,n).cpp) | Recursive | O(logn) | O(1) | |
 | 0053 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [C++](/0053-Maximum-Subarray.cpp) | DP | O(n) | O(1) |
+| 0061 |[Rotate List]() | Medium | C++ | | | | |
+| 0062 |[Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [C++](/0062-Unique-Paths.cpp) | DP | O(mn) | O(n) | |
 | 0067 |[Add Binary](https://leetcode.com/problems/add-binary/) | Easy| [C++](/0067-Add-Binary.cpp) | none | O(n)| O(1) | |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [C++](/0075-Sort-Colors.cpp) | none | O(n) | O(1) |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [C++](/0096-Unique-Binary-Search-Trees.cpp) | Math | O(1) | O(1) |
