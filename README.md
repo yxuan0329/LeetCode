@@ -32,6 +32,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | [C++](/0257-Binary-Tree-Paths.cpp) | Recursive | O(n) | O(n) | ⭐ |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy | [C++](/0283-Move-Zeros.cpp) | 2-pointer | O(n) | O(1) | |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [C++](/0328-Odd-Even-Linked-List.cpp) | linked list | O(n) | O(1) |
+| 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | [C++](/0334-Increasing-Triplet-Subsequence.cpp) | none | O(n) | O(1) | |
 | 0611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | Medium | [C++](/0611-Valid-Triangle-Number.cpp) | 2-pointer | O(n^2) | O(1) |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Medium | [C++](0700-Search-in-a-Binary-Search-Tree.cpp)| Recursive | O(logn) | O(1) |
 | 0701 | [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| Medium | [C++]() | Recursive | O(logn) | O(1)| |
