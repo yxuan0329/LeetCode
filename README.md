@@ -2,7 +2,10 @@
 My leetcode practice repository. <br>
 You can click the solution of each problem and see my solution, most of them were done by C++.<br>
 
+## Search by Topics
+- [Tree](#tree)
 
+## All Problems
 |  #  | Title | Difficulty | Solution |  Techniques | Time | Space | Notes |
 | --- | ----- | ---------- | -------- | ----------- | ---- | ----- | ----- |
 | 0005 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| Medium | [C++](/0005-Longest-Palindromic-Substring.cpp) | DP | O(n) | O(1) |
@@ -16,6 +19,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [C++](/0075-Sort-Colors.cpp) | none | O(n) | O(1) |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [C++](/0096-Unique-Binary-Search-Trees.cpp) | Math | O(1) | O(1) |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [C++](/0098-Validate-Binary-Search-Tree.cpp) | Recursive | O(n) | O(1) | |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [C++](/0100-Same-Tree.cpp) | Recursive | O(n) | O(1) | |
 | 0102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [C++](/0102-Binary-Tree-Level-Order-Traversal.cpp) | BFS | O(n) | O(n) | |
 | 0105| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Medium| [C++](/0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.cpp) | recursive| O(n) | O(1) | |
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [C++](/0108-Convert-Sorted-Array-to-Binary-Search-Tree.cpp) | Recursive | O(n) | O(1) | |
@@ -39,3 +43,15 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0701 | [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| Medium | [C++]() | Recursive | O(logn) | O(1)| |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [C++](/0704-Binary-Search.cpp) | Binary-search, Recursive | O(nlogn) | O(1) | |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [C++](/1143-Longest-Common-Subsequence.cpp) | DP | O(mn) | O(mn) |
+
+
+## Tree
+
+
+|  #  | Title | Difficulty | Solution |  Techniques | Time | Space | Notes |
+| --- | ----- | ---------- | -------- | ----------- | ---- | ----- | ----- |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [C++](/0100-Same-Tree.cpp) | Recursive | O(n) | O(1) | |
+| 0102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [C++](/0102-Binary-Tree-Level-Order-Traversal.cpp) | BFS | O(n) | O(n) | |
+| 0105| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Medium| [C++](/0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.cpp) | recursive| O(n) | O(1) | |
+| 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [C++](/0108-Convert-Sorted-Array-to-Binary-Search-Tree.cpp) | Recursive | O(n) | O(1) | |
+| 0111 |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| Easy | [C++](/0111-Minimum-Depth-of-Binary-Tree.cpp) | Recursive | O(n) | O(n) |
