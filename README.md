@@ -4,6 +4,7 @@ You can click the solution of each problem and see my solution, most of them wer
 
 ## Search by Topics
 - [Tree](#tree)
+- [Dynamic Programming](#dynamic-programming)
 
 ## All Problems
 |  #  | Title | Difficulty | Solution |  Techniques | Time | Space | Notes |
@@ -50,8 +51,6 @@ You can click the solution of each problem and see my solution, most of them wer
 
 
 ## Tree
-
-
 |  #  | Title | Difficulty | Solution |  Techniques | Time | Space | Notes |
 | --- | ----- | ---------- | -------- | ----------- | ---- | ----- | ----- |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [C++](/0100-Same-Tree.cpp) | Recursive | O(n) | O(1) | |
@@ -61,3 +60,12 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0111 |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| Easy | [C++](/0111-Minimum-Depth-of-Binary-Tree.cpp) | Recursive | O(n) | O(n) |
 | 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [C++](/0124-Binary-Tree-Maximum-Path-Sum.cpp) | Recursive | O(n) | O(1) | | 
 | 0208 | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [C++](/0208-Implement-Trie.cpp) | none | O(n) | O(1) | ⭐ |
+
+## Dynamic Programming
+|  #  | Title | Difficulty | Solution |  Techniques | Time | Space | Notes |
+| --- | ----- | ---------- | -------- | ----------- | ---- | ----- | ----- |
+| 0005 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| Medium | [C++](/0005-Longest-Palindromic-Substring.cpp) | DP | O(n) | O(1) |
+| 0053 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [C++](/0053-Maximum-Subarray.cpp) | DP | O(n) | O(1) |
+| 0062 |[Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [C++](/0062-Unique-Paths.cpp) | DP | O(mn) | O(n) | |
+| 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [C++](/0213-House-Robber-II.cpp) | DP | O(n) | O(1) | ⭐ |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [C++](/1143-Longest-Common-Subsequence.cpp) | DP | O(mn) | O(mn) |
