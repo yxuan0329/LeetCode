@@ -19,6 +19,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0062 |[Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [C++](/0062-Unique-Paths.cpp) | DP | O(mn) | O(n) | |
 | 0067 |[Add Binary](https://leetcode.com/problems/add-binary/) | Easy| [C++](/0067-Add-Binary.cpp) | none | O(n)| O(1) | |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [C++](/0070-Climbing-Stairs.cpp) | Fib numbers | O(n) | O(1) | |
+| 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [C++](/0073-Set-Matrix-Zeroes.cpp) | none | O(m+n) | O(m+n) | |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [C++](/0075-Sort-Colors.cpp) | none | O(n) | O(1) |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [C++](/0096-Unique-Binary-Search-Trees.cpp) | Math | O(1) | O(1) |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [C++](/0098-Validate-Binary-Search-Tree.cpp) | Recursive | O(n) | O(1) | |
