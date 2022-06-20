@@ -15,7 +15,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0022 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](/0022-Generate-Parentheses.cpp) | recursive | | |
 | 0050 |[Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [C++](/0050-Pow(x,n).cpp) | Recursive | O(logn) | O(1) | |
 | 0053 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [C++](/0053-Maximum-Subarray.cpp) | DP | O(n) | O(1) |
-| 0057 |[Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [C++](/0057-Insert-Interval.cpp) | none | O(n) | O(1) | |
+| 0057 |[Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [C++](/0057-Insert-Interval.cpp) | array | O(n) | O(1) | |
 | 0061 |[Rotate List]() | Medium | [C++](/0061-Rotate-List.cpp) | none | O(n) | O(1) | |
 | 0062 |[Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [C++](/0062-Unique-Paths.cpp) | DP | O(mn) | O(n) | |
 | 0067 |[Add Binary](https://leetcode.com/problems/add-binary/) | Easy| [C++](/0067-Add-Binary.cpp) | none | O(n)| O(1) | |
@@ -36,7 +36,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [C++](/0153-Find-Minimum-in-Rotated-Sorted-Array.cpp) | Binary Search | O(logn) | O(1) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)| Easy | [C++](/0169-Majority-Element.cpp) | Sort | O(nlogn) | O(1) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [C++](/0189-Rotate-Array.cpp) | none | O(n) | O(1) |
-| 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | [C++](/0190-Reverse-Bits.cpp) | Bit operation | O(n) | O(1) | |
+| 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | [C++](/0190-Reverse-Bits.cpp) | Bit manipulation | O(n) | O(1) | |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [C++](/0198-House-Robber.cpp) | DP | O(n) | O(1) | |
 | 0208 | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [C++](/0208-Implement-Trie.cpp) | none | O(n) | O(1) | ⭐ |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [C++](/0209-Minimum-Size-Subarray-Sum.cpp) | 2-pointer | O(nlogn) | O(n) | 
