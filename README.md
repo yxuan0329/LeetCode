@@ -35,6 +35,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [C++](/0153-Find-Minimum-in-Rotated-Sorted-Array.cpp) | Binary Search | O(logn) | O(1) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)| Easy | [C++](/0169-Majority-Element.cpp) | Sort | O(nlogn) | O(1) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [C++](/0189-Rotate-Array.cpp) | none | O(n) | O(1) |
+| 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | [C++](/0190-Reverse-Bits.cpp) | Bit operation | O(n) | O(1) | |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [C++](/0198-House-Robber.cpp) | DP | O(n) | O(1) | |
 | 0208 | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [C++](/0208-Implement-Trie.cpp) | none | O(n) | O(1) | ⭐ |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [C++](/0209-Minimum-Size-Subarray-Sum.cpp) | 2-pointer | O(nlogn) | O(n) | 
