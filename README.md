@@ -35,6 +35,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [C++](/0153-Find-Minimum-in-Rotated-Sorted-Array.cpp) | Binary Search | O(logn) | O(1) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)| Easy | [C++](/0169-Majority-Element.cpp) | Sort | O(nlogn) | O(1) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [C++](/0189-Rotate-Array.cpp) | none | O(n) | O(1) |
+| 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [C++](/0198-House-Robber.cpp) | DP | O(n) | O(1) | |
 | 0208 | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [C++](/0208-Implement-Trie.cpp) | none | O(n) | O(1) | ⭐ |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [C++](/0209-Minimum-Size-Subarray-Sum.cpp) | 2-pointer | O(nlogn) | O(n) | 
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [C++](/0213-House-Robber-II.cpp) | DP | O(n) | O(1) | ⭐ |
@@ -68,5 +69,6 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0005 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| Medium | [C++](/0005-Longest-Palindromic-Substring.cpp) | DP | O(n) | O(1) |
 | 0053 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [C++](/0053-Maximum-Subarray.cpp) | DP | O(n) | O(1) |
 | 0062 |[Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [C++](/0062-Unique-Paths.cpp) | DP | O(mn) | O(n) | |
+| 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [C++](/0198-House-Robber.cpp) | DP | O(n) | O(1) | |
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [C++](/0213-House-Robber-II.cpp) | DP | O(n) | O(1) | ⭐ |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [C++](/1143-Longest-Common-Subsequence.cpp) | DP | O(mn) | O(mn) |
