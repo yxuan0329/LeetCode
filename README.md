@@ -13,6 +13,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [C++](/0015-3Sum.cpp) | hash | O(n) | O(n) | ⭐ |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [C++](/0019-Remove-Nth-Node-From-End-of-List.cpp) | linked list/ 2-pointer | O(n) | O(1)|
 | 0022 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](/0022-Generate-Parentheses.cpp) | recursive | | |
+| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [C++](/0033-Search-in-Rotated-Sorted-Array.cpp) | Sort, Binary Search | O(logn) | O(1) | |
 | 0050 |[Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [C++](/0050-Pow(x,n).cpp) | Recursive | O(logn) | O(1) | |
 | 0053 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [C++](/0053-Maximum-Subarray.cpp) | DP | O(n) | O(1) |
 | 0056 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [C++](/0056-Merge-Intervals.cpp) | Sort | O(nlogn) | O(n) | |
