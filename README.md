@@ -15,6 +15,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0022 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [C++](/0022-Generate-Parentheses.cpp) | recursive | | |
 | 0050 |[Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [C++](/0050-Pow(x,n).cpp) | Recursive | O(logn) | O(1) | |
 | 0053 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [C++](/0053-Maximum-Subarray.cpp) | DP | O(n) | O(1) |
+| 0056 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [C++](/0056-Merge-Intervals.cpp) | Sort | O(nlogn) | O(n) | |
 | 0057 |[Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [C++](/0057-Insert-Interval.cpp) | array | O(n) | O(1) | |
 | 0061 |[Rotate List]() | Medium | [C++](/0061-Rotate-List.cpp) | none | O(n) | O(1) | |
 | 0062 |[Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [C++](/0062-Unique-Paths.cpp) | DP | O(mn) | O(n) | |
