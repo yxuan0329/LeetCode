@@ -34,6 +34,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [C++](/0124-Binary-Tree-Maximum-Path-Sum.cpp) | Recursive | O(n) | O(1) | | 
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/)| Easy | [C++](/0136-Single-Number.cpp) | Logic Operation | O(n) | O(1) |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| Medium | [C++](/0142-Linked-List-Cycle-II.cpp) | Linked list| O(n) | O(1) |
+| 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [C++](/0143-Reorder-List.cpp)| Stack | O(n) | O(n) | | 
 | 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [C++](/0153-Find-Minimum-in-Rotated-Sorted-Array.cpp) | Binary Search | O(logn) | O(1) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)| Easy | [C++](/0169-Majority-Element.cpp) | Sort | O(nlogn) | O(1) |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [C++](/0189-Rotate-Array.cpp) | none | O(n) | O(1) |
