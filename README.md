@@ -49,6 +49,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [C++](/0230-Kth-Smallest-Element-in-a-BST.cpp) | Recursive | O(n) | O(1) |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | [C++](/0257-Binary-Tree-Paths.cpp) | Recursive | O(n) | O(n) | ⭐ |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy | [C++](/0283-Move-Zeros.cpp) | 2-pointer | O(n) | O(1) | |
+| 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [C++](/0322-Coin-Change.cpp) | DP | O(n\*c) | O(n) | c = coins number |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [C++](/0328-Odd-Even-Linked-List.cpp) | linked list | O(n) | O(1) |
 | 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | [C++](/0334-Increasing-Triplet-Subsequence.cpp) | none | O(n) | O(1) | |
 | 0611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | Medium | [C++](/0611-Valid-Triangle-Number.cpp) | 2-pointer | O(n^2) | O(1) |
@@ -78,4 +79,5 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0062 |[Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [C++](/0062-Unique-Paths.cpp) | DP | O(mn) | O(n) | |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [C++](/0198-House-Robber.cpp) | DP | O(n) | O(1) | |
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [C++](/0213-House-Robber-II.cpp) | DP | O(n) | O(1) | ⭐ |
+| 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [C++](/0322-Coin-Change.cpp) | DP | O(n\*c) | O(n) | c = coins number |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [C++](/1143-Longest-Common-Subsequence.cpp) | DP | O(mn) | O(mn) |
