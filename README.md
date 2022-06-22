@@ -45,6 +45,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [C++](/0209-Minimum-Size-Subarray-Sum.cpp) | 2-pointer | O(nlogn) | O(n) | 
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [C++](/0213-House-Robber-II.cpp) | DP | O(n) | O(1) | ⭐ |
 | 0217 | [Contains-Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [C++](/0217-Contains-Duplicate.cpp) | Sort/hash | O(nlogn) | O(1) |
+| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [C++](/0226-Invert-Binary-Tree.cpp) | Recursive | O(n) | O(1) | |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [C++](/0230-Kth-Smallest-Element-in-a-BST.cpp) | Recursive | O(n) | O(1) |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | [C++](/0257-Binary-Tree-Paths.cpp) | Recursive | O(n) | O(n) | ⭐ |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy | [C++](/0283-Move-Zeros.cpp) | 2-pointer | O(n) | O(1) | |
@@ -67,6 +68,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0111 |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| Easy | [C++](/0111-Minimum-Depth-of-Binary-Tree.cpp) | Recursive | O(n) | O(n) |
 | 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [C++](/0124-Binary-Tree-Maximum-Path-Sum.cpp) | Recursive | O(n) | O(1) | | 
 | 0208 | [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [C++](/0208-Implement-Trie.cpp) | none | O(n) | O(1) | ⭐ |
+| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [C++](/0226-Invert-Binary-Tree.cpp) | Recursive | O(n) | O(1) | |
 
 ## Dynamic Programming
 |  #  | Title | Difficulty | Solution |  Techniques | Time | Space | Notes |
