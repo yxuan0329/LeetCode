@@ -5,6 +5,7 @@ You can click the solution of each problem and see my solution, most of them wer
 ## Search by Topics
 - [Tree](#tree)
 - [Dynamic Programming](#dynamic-programming)
+- [Sort]
 
 ## All Problems
 |  #  | Title | Difficulty | Solution |  Techniques | Time | Space | Notes |
