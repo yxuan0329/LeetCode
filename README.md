@@ -5,7 +5,7 @@ You can click the solution of each problem and see my solution, most of them wer
 ## Search by Topics
 - [Tree](#tree)
 - [Dynamic Programming](#dynamic-programming)
-- [Sort]
+- [Sort](#Sort)
 
 ## All Problems
 |  #  | Title | Difficulty | Solution |  Techniques | Time | Space | Notes |
@@ -82,3 +82,5 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [C++](/0213-House-Robber-II.cpp) | DP | O(n) | O(1) | ⭐ |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [C++](/0322-Coin-Change.cpp) | DP | O(n\*c) | O(n) | c = coins number |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [C++](/1143-Longest-Common-Subsequence.cpp) | DP | O(mn) | O(mn) |
+
+## Sort
