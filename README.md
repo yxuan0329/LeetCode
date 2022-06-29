@@ -5,6 +5,7 @@ You can click the solution of each problem and see my solution, most of them wer
 ## Search by Topics
 - [Tree](#tree)
 - [Dynamic Programming](#dynamic-programming)
+- [Recursive](#recursive)
 - [Sort](#Sort)
 
 ## All Problems
@@ -57,6 +58,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Medium | [C++](0700-Search-in-a-Binary-Search-Tree.cpp)| Recursive | O(logn) | O(1) |
 | 0701 | [Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| Medium | [C++]() | Recursive | O(logn) | O(1)| |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [C++](/0704-Binary-Search.cpp) | Binary-search, Recursive | O(nlogn) | O(1) | |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [C++](/1137-N-th-Tribonacci-Number.cpp) | DP, recursive | O(n) | O(n) | | 
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [C++](/1143-Longest-Common-Subsequence.cpp) | DP | O(mn) | O(mn) |
 
 
@@ -81,6 +83,14 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [C++](/0198-House-Robber.cpp) | DP | O(n) | O(1) | |
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [C++](/0213-House-Robber-II.cpp) | DP | O(n) | O(1) | ⭐ |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [C++](/0322-Coin-Change.cpp) | DP | O(n\*c) | O(n) | c = coins number |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [C++](/1137-N-th-Tribonacci-Number.cpp) | DP, recursive | O(n) | O(n) | | 
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [C++](/1143-Longest-Common-Subsequence.cpp) | DP | O(mn) | O(mn) |
+
+## Recursive
+|  #  | Title | Difficulty | Solution |  Techniques | Time | Space | Notes |
+| --- | ----- | ---------- | -------- | ----------- | ---- | ----- | ----- |
+| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [C++](/0098-Validate-Binary-Search-Tree.cpp) | Recursive | O(n) | O(1) | |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [C++](/0100-Same-Tree.cpp) | Recursive | O(n) | O(1) | |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [C++](/1137-N-th-Tribonacci-Number.cpp) | DP, recursive | O(n) | O(n) | | 
 
 ## Sort
