@@ -94,3 +94,6 @@ You can click the solution of each problem and see my solution, most of them wer
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [C++](/1137-N-th-Tribonacci-Number.cpp) | DP, recursive | O(n) | O(n) | | 
 
 ## Sort
+|  #  | Title | Difficulty | Solution |  Techniques | Time | Space | Notes |
+| --- | ----- | ---------- | -------- | ----------- | ---- | ----- | ----- |
+| 0056 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [C++](/0056-Merge-Intervals.cpp) | Sort | O(nlogn) | O(n) | |
