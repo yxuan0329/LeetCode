@@ -18,6 +18,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [C++](/0033-Search-in-Rotated-Sorted-Array.cpp) | Sort, Binary Search | O(logn) | O(1) | |
 | 0050 |[Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [C++](/0050-Pow(x,n).cpp) | Recursive | O(logn) | O(1) | |
 | 0053 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [C++](/0053-Maximum-Subarray.cpp) | DP | O(n) | O(1) |
+| 0055 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [C++](/0055-Jump-Game.cpp) | DP | O(n) | O(1) | |
 | 0056 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [C++](/0056-Merge-Intervals.cpp) | Sort | O(nlogn) | O(n) | |
 | 0057 |[Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [C++](/0057-Insert-Interval.cpp) | array | O(n) | O(1) | |
 | 0061 |[Rotate List]() | Medium | [C++](/0061-Rotate-List.cpp) | none | O(n) | O(1) | |
@@ -80,6 +81,7 @@ You can click the solution of each problem and see my solution, most of them wer
 | --- | ----- | ---------- | -------- | ----------- | ---- | ----- | ----- |
 | 0005 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| Medium | [C++](/0005-Longest-Palindromic-Substring.cpp) | DP | O(n) | O(1) |
 | 0053 |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [C++](/0053-Maximum-Subarray.cpp) | DP | O(n) | O(1) |
+| 0055 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [C++](/0055-Jump-Game.cpp) | DP | O(n) | O(1) | |
 | 0062 |[Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [C++](/0062-Unique-Paths.cpp) | DP | O(mn) | O(n) | |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [C++](/0198-House-Robber.cpp) | DP | O(n) | O(1) | |
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [C++](/0213-House-Robber-II.cpp) | DP | O(n) | O(1) | ⭐ |
